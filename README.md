@@ -56,6 +56,6 @@ Modify these paths if you compiled `whisper-cli` yourself.
 1. Place an audio file (e.g., `.mp3`, `.wav`, `.m4a`, etc.) in the same directory as the script.
 2. Run the script:
    ```sh
-   python script.py
+   python transcript.py
    ```
 3. The transcript will be saved as `transcription.md` in the same directory.
